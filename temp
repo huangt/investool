@@ -1,87 +1,95 @@
 83 tickers on Nasdaq trading below half book value
-AMCN
-ALCS
-ALVR
-AMCF
-APWC
-ASTC
-ACFC
-BIOF
-BSPM
-BKEP
-BKEPP
-BAMM
-CECO
-CADC
-CALI
-CCCL
-CHOP
-CJJD
-CPSL
-CPGI
-CNTF
-CNYD
-CNET
-CLNT
-COGO
-COCO
-DHRM
-DSWL
-DRYS
-EGLE
-ECTY
-EMITF
-CLWT
-ESEA
-EDS
-FREE
-FFHL
-GIGM
-GAI
-GLBS
-GRVY
-GPRC
-GURE
-HAST
-IDSA
-IVAN
-JASO
-JRCC
-KGJI
-KONE
-LLEN
-LAKE
-LIWA
-NFEC
-NINE
-OCZ
-OSN
-PRGN
-PESI
-PME
-QKLS
-LEDS
-SVBI
-SGMA
-SCOK
-SPU
-SKBI
-SORL
-SBLK
-SPPR
-SUTR
-TAIT
-TBAC
-THTI
-OINK
-TRIT
-TBOW
-USEG
-UBIC
-VRTA
-VBFC
-VISN
-ZOOM
+AMCN, AirMedia Group Inc, 1.81, 110511798, n/a, 1995, Technology, Advertising, http://www.nasdaq.com/symbol/amcn
+ALCS, ALCO Stores, Inc., 14.6, 47569179.8, n/a, n/a, Consumer Services, Department/Specialty Retail Stores, http://www.nasdaq.com/symbol/alcs
+ALVR, Alvarion Ltd., 0.65, 5812375.4, n/a, n/a, Public Utilities, Telecommunications Equipment, http://www.nasdaq.com/symbol/alvr
+AMCF, Andatee China Marine Fuel Services Corporation, 0.7321, 7218622.404, n/a, 2010, Energy, Oil Refining/Marketing, http://www.nasdaq.com/symbol/amcf
+APWC, Asia Pacific Wire & Cable Corporation Limited, 3.7304, 51587212.92, n/a, n/a, Basic Industries, Telecommunications Equipment, http://www.nasdaq.com/symbol/apwc
+ASTC, Astrotech Corporation, 0.8079, 15743326.74, n/a, n/a, Capital Goods, Military/Government/Technical, http://www.nasdaq.com/symbol/astc
+ACFC, Atlantic Coast Federal Corporation, 4.21, 11068346.81, n/a, n/a, Finance, Savings Institutions, http://www.nasdaq.com/symbol/acfc
+BIOF, BioFuel Energy Corp., 3.97, 24767920.87, n/a, 2007, Basic Industries, Major Chemicals, http://www.nasdaq.com/symbol/biof
+BSPM, Biostar Pharmaceuticals, Inc., 0.772, 8952199.236, n/a, n/a, Health Care, Major Pharmaceuticals, http://www.nasdaq.com/symbol/bspm
+BKEP, Blueknight Energy Partners L.P., L.L.C., 8.48, 192349313, n/a, n/a, Energy, Natural Gas Distribution, http://www.nasdaq.com/symbol/bkep
+BKEPP, Blueknight Energy Partners L.P., L.L.C., 9, 271439622, n/a, n/a, Energy, Natural Gas Distribution, http://www.nasdaq.com/symbol/bkepp
+BAMM, Books-A-Million, Inc., 2.3, 35342312.9, n/a, 1992, Consumer Services, Other Specialty Stores, http://www.nasdaq.com/symbol/bamm
+CECO, Career Education Corporation, 2.67, 179116461.4, n/a, 1998, Consumer Services, Other Consumer Services, http://www.nasdaq.com/symbol/ceco
+CADC, China Advanced Construction Materials Group, Inc., 3.77, 5604561.17, n/a, n/a, Basic Industries, Engineering & Construction, http://www.nasdaq.com/symbol/cadc
+CALI, China Auto Logistics Inc., 2.35, 8681825.9, n/a, n/a, Consumer Services, Motor Vehicles, http://www.nasdaq.com/symbol/cali
+CCCL, China Ceramics Co., Ltd., 2.7, 55163262.6, n/a, n/a, Capital Goods, Building Materials, http://www.nasdaq.com/symbol/cccl
+CHOP, China Gerui Advanced Materials Group Limited, 1.56, 92855739.6, n/a, n/a, Capital Goods, Steel/Iron Ore, http://www.nasdaq.com/symbol/chop
+CJJD, China Jo-Jo Drugstores, Inc., 0.5494, 7456211.218, n/a, n/a, Health Care, Other Pharmaceuticals, http://www.nasdaq.com/symbol/cjjd
+CPSL, China Precision Steel, Inc., 1.37, 5316786.42, n/a, n/a, Basic Industries, Steel/Iron Ore, http://www.nasdaq.com/symbol/cpsl
+CPGI, China Shengda Packaging Group, Inc., 1.06, 41118259.66, n/a, 2010, Consumer Durables, Containers/Packaging, http://www.nasdaq.com/symbol/cpgi
+CNTF, China TechFaith Wireless Communication Technology Limited, 1.32, 69872280.72, n/a, 2005, Miscellaneous, Business Services, http://www.nasdaq.com/symbol/cntf
+CNYD, China Yida Holding, Co., 6.2399, 24426587.74, n/a, n/a, Consumer Services, Advertising, http://www.nasdaq.com/symbol/cnyd
+CNET, ChinaNet Online Holdings, Inc., 0.61, 13558189.4, n/a, 1996, Technology, Advertising, http://www.nasdaq.com/symbol/cnet
+CLNT, Cleantech Solutions International, Inc., 5.3036, 18581173.21, n/a, 1994, Technology, Industrial Machinery/Components, http://www.nasdaq.com/symbol/clnt
+COGO, Cogo Group, Inc., 2.09, 61693368.22, n/a, n/a, Capital Goods, Electrical Products, http://www.nasdaq.com/symbol/cogo
+COCO, Corinthian Colleges, Inc., 2.085, 180189769.9, n/a, 1999, Consumer Services, Other Consumer Services, http://www.nasdaq.com/symbol/coco
+DHRM, Dehaier Medical Systems Limited, 1.91, 8824200, n/a, 2010, Health Care, Medical/Dental Instruments, http://www.nasdaq.com/symbol/dhrm
+DSWL, Deswell Industries, Inc., 2.54, 41073024.28, n/a, 1995, Consumer Non-Durables, Plastic Products, http://www.nasdaq.com/symbol/dswl
+DRYS, DryShips Inc., 2.965, 1259420053, n/a, 2005, Transportation, Marine Transportation, http://www.nasdaq.com/symbol/drys
+EGLE, Eagle Bulk Shipping Inc., 4.96, 82625748.32, n/a, 2005, Transportation, Marine Transportation, http://www.nasdaq.com/symbol/egle
+ECTY, Ecotality, Inc., 0.2399, 8045468.964, n/a, n/a, Consumer Durables, Metal Fabrications, http://www.nasdaq.com/symbol/ecty
+EMITF, Elbit Imaging Ltd., 1.15, 28638230.35, n/a, n/a, Consumer Services, Building operators, http://www.nasdaq.com/symbol/emitf
+CLWT, Euro Tech Holdings Company Limited, 3.5225, 7288838.018, n/a, 1997, Consumer Durables, Diversified Electronic Products, http://www.nasdaq.com/symbol/clwt
+ESEA, Euroseas Ltd., 1.59, 72058171.95, n/a, n/a, Transportation, Marine Transportation, http://www.nasdaq.com/symbol/esea
+EDS, Exceed Company Ltd., 1.5599, 51528955.09, n/a, n/a, Consumer Non-Durables, Shoe Manufacturing, http://www.nasdaq.com/symbol/eds
+FREE, FreeSeas Inc., 0.235, 1893696.27, n/a, n/a, Transportation, Marine Transportation, http://www.nasdaq.com/symbol/free
+FFHL, Fuwei Films (Holdings) Co., Ltd., 1.4, 18287500, n/a, 2006, Capital Goods, Specialty Chemicals, http://www.nasdaq.com/symbol/ffhl
+GIGM, GigaMedia Limited, 0.998, 50618536.05, n/a, n/a, Technology, Computer Software: Programming, Data Processing, http://www.nasdaq.com/symbol/gigm
+GAI, Global-Tech Advanced Innovations Inc., 6.8, 20680343.6, n/a, 1971, Consumer Durables, Home Furnishings, http://www.nasdaq.com/symbol/gai
+GLBS, Globus Maritime Limited, 2.511, 25655110.48, n/a, n/a, Transportation, Marine Transportation, http://www.nasdaq.com/symbol/glbs
+GRVY, GRAVITY Co., Ltd., 1.13, 31409028, n/a, 2005, Miscellaneous, Business Services, http://www.nasdaq.com/symbol/grvy
+GPRC, Guanwei Recycling Corp., 1.64, 17068855.96, n/a, n/a, Basic Industries, Containers/Packaging, http://www.nasdaq.com/symbol/gprc
+GURE, Gulf Resources, Inc., 1.81, 69446994.05, n/a, n/a, Basic Industries, Major Chemicals, http://www.nasdaq.com/symbol/gure
+HAST, Hastings Entertainment, Inc., 2.28, 18547373.64, n/a, 1998, Consumer Services, Consumer Electronics/Video Chains, http://www.nasdaq.com/symbol/hast
+IDSA, Industrial Services of America, Inc., 2.04, 14421304.68, n/a, n/a, Basic Industries, Miscellaneous, http://www.nasdaq.com/symbol/idsa
+IVAN, Ivanhoe Energy, Inc., 0.7505, 86175601.88, n/a, n/a, Energy, Oil & Gas Production, http://www.nasdaq.com/symbol/ivan
+JASO, JA Solar Holdings, Co., Ltd., 9.05, 361753125.1, n/a, 2007, Technology, Semiconductors, http://www.nasdaq.com/symbol/jaso
+JRCC, James River Coal Company, 2.34, 84382433.46, n/a, n/a, Energy, Coal Mining, http://www.nasdaq.com/symbol/jrcc
+KGJI, Kingold Jewelry Inc., 1.15, 73938348.4, n/a, n/a, Miscellaneous, Business Services, http://www.nasdaq.com/symbol/kgji
+KONE, Kingtone Wirelessinfo Solution Holding Ltd, 2.8785, 4044292.5, n/a, 2010, Technology, EDP Services, http://www.nasdaq.com/symbol/kone
+LLEN, L&L Energy, Inc., 3.04, 117189820.3, n/a, n/a, Energy, Coal Mining, http://www.nasdaq.com/symbol/llen
+LAKE, Lakeland Industries, Inc., 4.1, 24270897.1, n/a, 1986, Health Care, Industrial Specialties, http://www.nasdaq.com/symbol/lake
+LIWA, Lihua International, Inc., 5.24, 156316200.6, n/a, 2009, Capital Goods, Metal Fabrications, http://www.nasdaq.com/symbol/liwa
+NFEC, NF Energy Saving Corporation, 2.26, 12337672.22, n/a, n/a, Capital Goods, Metal Fabrications, http://www.nasdaq.com/symbol/nfec
+NINE, Ninetowns Internet Technology Group Company Limited, 1.76, 68273627.84, n/a, 1995, Technology, Computer Software: Prepackaged Software, http://www.nasdaq.com/symbol/nine
+OCZ, OCZ Technology Group Inc, 1.46, 98770912.6, n/a, n/a, Technology, Electronic Components, http://www.nasdaq.com/symbol/ocz
+OSN, Ossen Innovation Co., Ltd., 0.7199, 14398000, n/a, 2010, Basic Industries, Steel/Iron Ore, http://www.nasdaq.com/symbol/osn
+PRGN, Paragon Shipping Inc., 8.28, 93741539.76, n/a, 2007, Transportation, Marine Transportation, http://www.nasdaq.com/symbol/prgn
+PESI, Perma-Fix Environmental Services, Inc., 0.5638, 31839345.47, n/a, n/a, Basic Industries, Environmental Services, http://www.nasdaq.com/symbol/pesi
+PME, Pingtan Marine Enterprise Ltd., 1.49, 117792029, n/a, n/a, Basic Industries, Military/Government/Technical, http://www.nasdaq.com/symbol/pme
+QKLS, QKL Stores, Inc., 4.79, 7291941.54, n/a, n/a, Consumer Services, Food Chains, http://www.nasdaq.com/symbol/qkls
+LEDS, SemiLEDS Corporation, 0.91, 25262309.8, n/a, 2010, Technology, Semiconductors, http://www.nasdaq.com/symbol/leds
+SVBI, Severn Bancorp Inc, 4.8, 48320059.2, n/a, n/a, Finance, Major Banks, http://www.nasdaq.com/symbol/svbi
+SGMA, SigmaTron International, Inc., 4.62, 18300891.84, n/a, 1972, Technology, Electrical Products, http://www.nasdaq.com/symbol/sgma
+SCOK, SinoCoking Coal and Coke Chemical Industries, Inc, 1.47, 31048416.84, n/a, n/a, Basic Industries, Steel/Iron Ore, http://www.nasdaq.com/symbol/scok
+SPU, SkyPeople Fruit Juice, Inc., 1.98, 52789768.02, n/a, n/a, Consumer Non-Durables, Packaged Foods, http://www.nasdaq.com/symbol/spu
+SKBI, Skystar Bio-Pharmaceutical Company, 3.02, 22966496, n/a, n/a, Health Care, Major Pharmaceuticals, http://www.nasdaq.com/symbol/skbi
+SORL, SORL Auto Parts, Inc., 3.5, 67567223.5, n/a, n/a, Capital Goods, Auto Parts:O.E.M., http://www.nasdaq.com/symbol/sorl
+SBLK, Star Bulk Carriers Corp., 10.66, 221212812.9, n/a, n/a, Transportation, Marine Transportation, http://www.nasdaq.com/symbol/sblk
+SPPR, Supertel Hospitality, Inc., 5.4999, 15915088.13, n/a, 1994, Consumer Services, Real Estate Investment Trusts, http://www.nasdaq.com/symbol/sppr
+SUTR, Sutor Technology Group Limited, 2.03, 81757770.92, n/a, n/a, Capital Goods, Steel/Iron Ore, http://www.nasdaq.com/symbol/sutr
+TAIT, Taitron Components Incorporated, 1.0199, 5649997.144, n/a, 1995, Consumer Non-Durables, Electronic Components, http://www.nasdaq.com/symbol/tait
+TBAC, Tandy Brands Accessories, Inc., 0.66, 4705610.58, n/a, n/a, Consumer Non-Durables, Apparel, http://www.nasdaq.com/symbol/tbac
+NCTY, The9 Limited, 2.72, 62098772.32, n/a, 2004, Miscellaneous, Business Services, http://www.nasdaq.com/symbol/ncty
+THTI, THT Heat Transfer Technology, Inc., 1.01, 20658035, n/a, n/a, Capital Goods, Metal Fabrications, http://www.nasdaq.com/symbol/thti
+OINK, Tianli Agritech, Inc., 0.762, 8529828, n/a, 2010, Consumer Non-Durables, Farming/Seeds/Milling, http://www.nasdaq.com/symbol/oink
+TRIT, Tri-Tech Holding Inc., 1.58, 13040381.48, n/a, 2009, Consumer Services, Military/Government/Technical, http://www.nasdaq.com/symbol/trit
+TBOW, Trunkbow International Holdings Ltd., 0.88, 32390226, n/a, n/a, Technology, Computer Software: Prepackaged Software, http://www.nasdaq.com/symbol/tbow
+USEG, U.S. Energy Corp., 1.96, 54257899.92, n/a, n/a, Energy, Oil & Gas Production, http://www.nasdaq.com/symbol/useg
+UBIC, UBIC, Inc., 6.74, 4638649.98, n/a, n/a, Technology, EDP Services, http://www.nasdaq.com/symbol/ubic
+VRTA, Vestin Realty Mortgage I, Inc., 1.65, 9741022.5, n/a, 1999, Consumer Services, Real Estate Investment Trusts, http://www.nasdaq.com/symbol/vrta
+VBFC, Village Bank and Trust Financial Corp., 1.637, 6960188.415, n/a, n/a, Finance, Major Banks, http://www.nasdaq.com/symbol/vbfc
+VISN, VisionChina Media, Inc., 1.96, 9933920.92, n/a, 1993, Technology, Advertising, http://www.nasdaq.com/symbol/visn
+ZOOM, Zoom Technologies, Inc., 0.2367, 7121556.922, n/a, n/a, Public Utilities, Telecommunications Equipment, http://www.nasdaq.com/symbol/zoom
+
+
+
+
+
+
+
 
 
 238
